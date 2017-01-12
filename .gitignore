@@ -1,0 +1,4 @@
+#copias de seguridad
+*.bak
+#clases compiladas
+*.class
